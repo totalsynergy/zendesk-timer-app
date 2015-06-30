@@ -1,0 +1,38 @@
+<body>
+
+	<p class="time">
+		<span id="hours">00</span>:
+		<span id="minutes">00</span>	
+	</p>
+	
+	<div class="buttonHolder">
+	
+		<button type="button" id="play" class="btn activeButton">
+			<i class="icon-play"></i> 
+		</button>
+		
+		<button type="button" id="pause" class="btn">
+			<i class="icon-pause"></i> 
+		</button>
+		
+		<!--
+		<button type="button" id="restart" class="btn">
+			<i class="icon-repeat"></i> 
+		</button>
+		-->
+		
+	</div>
+	
+	<!--
+	<div id="listHolder">
+		<p id="project">Project:</p>
+		<select class="form-control" id="listSelect">
+			<option value="Technical">Technical</option>
+			<option value="2nd Level Support">Second Level Support</option>
+			<option value="Customer Assurance">Customer Assurance</option>
+		</select>
+	</div>
+	
+	-->
+	
+</body>
